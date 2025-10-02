@@ -1,6 +1,4 @@
-<h1 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=F7F7F7&center=true&width=496&+Andre+Estudante+de+programação" alt="Typing SVG"></a></h1>
-
-
+# 👨‍💻 André Lopes - Estudante de Programação
 
 
 ### 🤖 Linguagens e Tecnologias
