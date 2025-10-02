@@ -7,7 +7,7 @@
     alt="C++"
     title="C++" 
     width="30px" 
-    style="padding-right: 10px;" 
+    style="padding-right: 15px;" 
     src="cpp_256x256.png" 
 />
 <img 
