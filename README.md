@@ -1,6 +1,6 @@
 # 👨‍💻 André Lopes - Estudante de Programação
 
-
+<img align="right" alt="" height="190px" src="./src/study.gif">
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
