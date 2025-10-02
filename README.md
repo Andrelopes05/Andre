@@ -1,13 +1,11 @@
 # 👨‍💻 André Lopes - Estudante de Programação
-
-<img align="right" alt="" height="190px" src="./src/study.gif">
 ### 🤖 Linguagens e Tecnologias
 <img 
     align="left" 
     alt="C++"
     title="C++" 
     width="30px" 
-    style="padding-right: 15px;" 
+    style="padding-right: 10px;" 
     src="cpp_256x256.png" 
 />
 <img 
