@@ -1,36 +1,7 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+me+chamo+Artur!;" />
-</h1>
+## 📈 **Minhas Estatísticas**
 
-<div  align="center" >
-  - 🔭 Atualmente estou trabalhando como freelancer ...
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Andrelopes05&show_icons=true&theme=dracula" alt="Estatísticas do GitHub" width="50%" />
   <br>
-- 🌱 Atualmente estou trabalhando com react, typescript, Tailwind css ...
-</div>
-
-<h2 align="center" >⚒️ Linguagens-Frameworks-Ferramentas ⚒️</h2>
-<br>
-<div align="center" >
-  <img src="https://skillicons.dev/icons?i=react,bootstrap,html,css,vscode,github,figma,tailwind,git,typescript" />
-</div>
-
-<h2 align="center" >⚡Stats⚡</h2>
-<br>
-<div align="center" >
-  <picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=Andrelopes05&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=artur-debv&show_icons=true" />
-</picture>
-</div>
-<br>
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=obrigado+pela+atenção!;" />
-</h1>
-![snake gif](https://github.com/Andrelopes05/Andrelopes05/blob/output/github-contribution-grid-snake.svg)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Andrelopes05&theme=dracula" alt="GitHub Streak" width="50%" />
+</p>
